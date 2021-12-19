@@ -30,3 +30,6 @@
 *.exe
 *.out
 *.app
+Template/.vs
+Template/Template.vcxproj.user
+Template/Template.vcxproj.filters
